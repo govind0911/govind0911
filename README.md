@@ -6,16 +6,16 @@ Always exploring new tech and building small projects to sharpen my skills.
 ---
 
 ## 🛠 Skills & Tools
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="DevOps" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="Kali Linux" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cybersecurity/cybersecurity-original.svg" alt="Cybersecurity" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networking/networking-original.svg" alt="Networking" width="80" height="80"/>
-  <img src="https://static.thenounproject.com/png/prompt-engineering-icon-6606592-512.png" alt="Prompt Engineering" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Kali_Linux_Logo.png" alt="Kali Linux" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Network_icon.png" alt="Networking" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Cybersecurity_icon.png" alt="Cybersecurity" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Flask" width="80" height="80"/>
 </p>
 
 ---
@@ -49,8 +49,3 @@ _"Learning never exhausts the mind; it only ignites curiosity."_ 🔥
 
 ---
 
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/govind0911/count.svg" alt="Visitor Count"/>
-</p>
