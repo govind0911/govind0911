@@ -9,13 +9,8 @@ Always exploring new tech and building small projects to sharpen my skills.
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Kali_Linux_Logo.png" alt="Kali Linux" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Network_icon.png" alt="Networking" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Cybersecurity_icon.png" alt="Cybersecurity" width="80" height="80"/>
-  <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask" width="80" height="80"/>
 </p>
 
 
