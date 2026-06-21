@@ -39,9 +39,6 @@ Always exploring new tech and building small projects to sharpen my skills.
 
 ---
 
-## ✨ Fun Fact
-
-_"Learning never exhausts the mind; it only ignites curiosity."_ 🔥
 
 ---
 
