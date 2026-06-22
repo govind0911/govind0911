@@ -1,13 +1,6 @@
-# Hi there 👋, I’m Govind
-
-I’m an Electronics & Communication student passionate about **Networking, DevOps, and Linux-based systems**.  
-Always exploring new tech and building small projects to sharpen my skills.  
-
----
-
-## 🛠 Skills & Tools
+# Hi there 👋, I’m Govind i have 100% swag
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Swag_by_Justin_Bieber.png" alt="SWAG" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
