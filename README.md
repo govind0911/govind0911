@@ -29,10 +29,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/govind0911/govind0911/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <br clear="both">
 ## 📈 GitHub stats of lilgovind
@@ -47,11 +43,5 @@
 
 ---
 
-  <a href="https://twitter.com/lonely_drew"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-
----
+ 
 
