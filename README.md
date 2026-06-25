@@ -175,17 +175,6 @@ print(me.motto())
 </details>
 
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech — Electronics & Communication Engineering (S3) | College of Engineering Perumon | Expected 2029 | In Progress |
-| CBSE Class XII | Chinthalaya Vidyalaya, Trivandrum | 2025 | 81% |
-| CBSE Class X | Divine Public School | 2023 | 96% |
-
-</div>
 
 ## 📚 Currently Learning
 
