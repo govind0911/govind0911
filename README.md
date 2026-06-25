@@ -34,12 +34,11 @@ class Govind:
         ]
 
         self.fun_fact = (
-            "I treat ChatGPT, Claude, Codex, Gemini, Grok, Antigravity & DALL·E "
-            "like a personal research lab 🧪"
+           "Most of my learning starts with curiosity and a terminal."
         )
 
     def motto(self):
-        return "Stay curious. Stay adaptable. Keep shipping. 🚀"
+        return The moment I stop having fun with it, I'll be done with it."
 
 
 me = Govind()
@@ -70,6 +69,9 @@ print(me.motto())
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/Virtual%20Machines-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 **Databases**
 
@@ -80,6 +82,8 @@ print(me.motto())
 
 ![Nmap](https://img.shields.io/badge/Nmap-3776AB?style=flat-square&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 **AI & Productivity Tools**
 
@@ -89,7 +93,10 @@ print(me.motto())
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logoColor=white)
-![DALL·E](https://img.shields.io/badge/DALL%C2%B7E-412991?style=flat-square&logo=openai&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL%C2%B7E-412991?style=flat-square&logo=openai&logoColor=white)![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
 
 **Marketing & Growth**
 
@@ -112,7 +119,6 @@ print(me.motto())
 
 </div>
 
-> **Note:** This card shows **total public commits**. Private repo commits won't count unless you self-host the stats API with your own GitHub token (the `count_private` flag was removed here because it silently fails / errors out on the shared public instance for most accounts — that was the "not working" issue). If the card ever shows "Something went wrong," it's almost always a temporary rate-limit on the free `vercel.app` instance — refreshing the page or waiting a few minutes fixes it. For 100% reliable, fully-private stats, deploy your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the domain in this README for yours.
 
 ## 🔥 Streak Stats
 
@@ -141,19 +147,6 @@ print(me.motto())
 ## 💼 Experience & Practical Work
 
 <details>
-<summary><b>🛍️ Kyrin — Founder & Store Operator | Self-Directed | Remote</b></summary>
-<br/>
-
-> `Shopify` `SEO` `Google Ads` `Email Marketing (Mailchimp)` `AI-Assisted Content`
-
-- Built and managed an end-to-end **Shopify e-commerce store**, handling storefront setup, branding, and catalog management.
-- Used **AI tools (ChatGPT, Claude, Gemini, Codex)** to generate and refine product descriptions, ad copy, and marketing content.
-- Implemented **on-page SEO** and **Google Ads** strategies to improve product discoverability, organic reach, and paid traffic.
-- Ran **email marketing campaigns via Mailchimp**, applying concepts learned from a dedicated Coursera certification.
-
-</details>
-
-<details>
 <summary><b>🔐 Independent Cybersecurity & Networking Practice | Self-Study | Kollam, Kerala</b></summary>
 <br/>
 
@@ -178,32 +171,6 @@ print(me.motto())
 
 </details>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[SafeNet](https://github.com/govind0911)** | `Firebase` `Android` | Emergency Android application built on Firebase delivering real-time emergency assistance and safety alert features. |
-| **[Weather CLI / GUI](https://github.com/govind0911)** | `Python` | Dual-interface weather application offering both a command-line tool and a graphical UI for forecast lookups. |
-| **[Kyrin](https://github.com/govind0911)** | `Shopify` `Google Ads` `Mailchimp` `SEO` `AI Tools` | Self-managed Shopify store combining AI-generated product content, Google Ads, Mailchimp email campaigns, SEO optimization, and digital marketing/branding. |
-
-</div>
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement Details |
-|---|---|
-| 📜 | **Microsoft Prompt Engineering** certification — structured, technique-driven prompting across multiple AI platforms |
-| 📧 | **Coursera — Email Marketing** certification |
-| 🔍 | **Coursera — SEO** certification |
-| 🎓 | Scored **96%** in CBSE Class X (Divine Public School) |
-| 🎓 | Scored **81%** in CBSE Class XII (Chinthalaya Vidyalaya, Trivandrum) |
-| 🌐 | Hands-on practitioner across **7+ AI/agentic tools** — ChatGPT, Claude, Codex, Grok, Google Gemini, Google Antigravity, DALL·E |
-
-</div>
 
 ## 🎓 Education
 
@@ -212,8 +179,8 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.Tech — Electronics & Communication Engineering (S3) | College of Engineering Perumon | Expected 2029 | In Progress |
-| CBSE Class XII | Chinthalaya Vidyalaya, Trivandrum | — | 81% |
-| CBSE Class X | Divine Public School | — | 96% |
+| CBSE Class XII | Chinthalaya Vidyalaya, Trivandrum | 2025 | 81% |
+| CBSE Class X | Divine Public School | 2023 | 96% |
 
 </div>
 
