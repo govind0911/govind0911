@@ -1,8 +1,18 @@
 <div align="center">
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GOVIND%20H&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20AI%20%2B%20Cybersecurity%20Enthusiast%20%7C%20Builder%20of%20Curious%20Things&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Govind+%F0%9F%91%8B;ECE+Student+%7C+AI+%2B+Cybersecurity+Explorer;Prompt+Engineering+%2B+Automation+Enthusiast;Building+SafeNet+%7C+Weather+CLI+%7C+Kyrin"/>
+<a href="https://github.com/govind0911">
+  <img src="https://komarev.com/ghpvc/?username=govind0911&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Govind+%F0%9F%91%8B;ECE+Student+%7C+AI+%2B+Cybersecurity+Explorer;Building+SafeNet+%7C+Weather+CLI+%7C+Kyrin"/>
+
+</div>
+```
+
 
 </div>
 
